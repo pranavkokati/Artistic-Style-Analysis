@@ -10,5 +10,5 @@ Uniqueness Analysis: We’ll use our embeddings to assign a uniqueness score to 
 
 Image Quality Analysis: We’ll compute image quality metrics like brightness, contrast, and saturation for each image and see how these metrics correlate with the artistic style of the images.
 
-Credit to Jacob Marks for his course on HuggingFace
+Credit to Jacob Marks for his course, you can check it out here:
 Check it his course out here: https://huggingface.co/learn/cookbook/analyzing_art_with_hf_and_fiftyone
